@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: STARSCHEMA
+    database: FINAL_PROJECT       
+    schema: STARSCHEMA
+    tables:
+      - name: order_items
+      - name: orders
+      - name: customers
+      - name: products
+
